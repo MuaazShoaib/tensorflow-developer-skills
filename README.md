@@ -20,20 +20,22 @@ Start to Learn TensorFlow on 01-August-2021 (But I start to learn Machine Learni
 
 # TensorFlow Developer Skills - Plan
 
-| Number | Course Section | Step 1: Take the Video Lectures | Step 2: Revise the Notes  | Step 3: Solve the Exercises | Step 4: Revise the Notes  | Step 5: Build a Project |
-| --- | --- | --- | --- | --- | --- | --- |
-| 00 | TensorFlow Fundamentals | Completed on 20-Aug-2021 |  | Completed on 17-Jan-2022 - Link: https://github.com/MuaazShoaib/tensorflow-developer-skills/blob/main/exercises/00_tensorflow_fundamentals_exercises.ipynb |  |  |
-| 01 | Neural Network Regression with TensorFlow | Completed on 03-Sep-2021 |  |  |  |  |
-| 02 | Neural Network Classification with TensorFlow | Completed on 10-Sep-2021 |  |  |  |  |
-| 03 | Computer Vision and Convolutional Neural Networks with TensorFlow | Completed on 28-Nov-2021 |  |  |  |  |
-| 04 | Transfer Learning with TensorFlow Part 1: Feature Extraction | Completed on 29-Nov-2021 |  |  |  |  |
-| 05 | Transfer Learning with TensorFlow Part 2: Fine-tuning | Completed on 14-Dec-2021 |  |  |  |  |
-| 06 | Transfer Learning with TensorFlow Part 3: Scaling Up (Food Vision mini) | Completed on 21-Dec-2021 |  |  |  |  |
-| 07 | Milestone Project 1: Food Vision | Completed on 15-Jan-2022 |  |  |  |  |
-| 08 | NLP Fundamentals in TensorFlow |  |  |  |  |  |
-| 09 | Milestone Project 2: SkimLit |  |  |  |  |  |
-| 10 | Time Series fundamentals in TensorFlow + Milestone Project 3: BitPredict |  |  |  |  |  |
+| Number | Course Section | Step 1: Take the Video Lectures | Step 2: Make your own Conceptual  Notes  | Step 3: Revise the Conceptual  Notes  | Step 4: Solve the Exercises | Step 5: Revise the Conceptual  Notes  | Step 6: Build a Project |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 00 | TensorFlow Fundamentals | Completed on 20-Aug-2021 | Completed on 18-Jan-2021 | Completed on 18-Jan-2021 | Completed on 17-Jan-2022 - Link: https://github.com/MuaazShoaib/tensorflow-developer-skills/blob/main/exercises/00_tensorflow_fundamentals_exercises.ipynb | Completed on 18-Jan-2021 |  |
+| 01 | Neural Network Regression with TensorFlow | Completed on 03-Sep-2021 |  |  |  |  |  |
+| 02 | Neural Network Classification with TensorFlow | Completed on 10-Sep-2021 |  |  |  |  |  |
+| 03 | Computer Vision and Convolutional Neural Networks with TensorFlow | Completed on 28-Nov-2021 |  |  |  |  |  |
+| 04 | Transfer Learning with TensorFlow Part 1: Feature Extraction | Completed on 29-Nov-2021 |  |  |  |  |  |
+| 05 | Transfer Learning with TensorFlow Part 2: Fine-tuning | Completed on 14-Dec-2021 |  |  |  |  |  |
+| 06 | Transfer Learning with TensorFlow Part 3: Scaling Up (Food Vision mini) | Completed on 21-Dec-2021 |  |  |  |  |  |
+| 07 | Milestone Project 1: Food Vision | Completed on 15-Jan-2022 |  |  |  |  |  |
+| 08 | NLP Fundamentals in TensorFlow |  |  |  |  |  |  |
+| 09 | Milestone Project 2: SkimLit |  |  |  |  |  |  |
+| 10 | Time Series fundamentals in TensorFlow + Milestone Project 3: BitPredict |  |  |  |  |  |  |
+
 ### Log
+* 18-Jan-2022 - make the conceptual notes of TensorFlow Fundamentals and revise the conceptual notes twicely
 * 17-Jan-2022 - completed the step 2 (solve the exercises) of TensorFlow Fundamentals
 * 15-Jan-2021 - completed the step 1 (take video lectures) of Milestone Project 1: Food Vision
 * 06-Jan-2021 - purchased the TensorFlow course, it costs me Rs 1500 = 10 USD https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery
