@@ -23,7 +23,7 @@ Start to Learn TensorFlow on 01-August-2021 (But I start to learn Machine Learni
 | Number | Course Section | Step 1: Take the Video Lectures | Step 2: Make your own Conceptual  Notes  | Step 3: Revise the Conceptual  Notes  | Step 4: Solve the Exercises | Step 5: Revise the Conceptual  Notes  | Step 6: Build a Project |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 00 | TensorFlow Fundamentals | Completed on 20-Aug-2021 | Completed on 18-Jan-2021 | Completed on 18-Jan-2021 | Completed on 17-Jan-2022 - Link: https://github.com/MuaazShoaib/tensorflow-developer-skills/blob/main/exercises/00_tensorflow_fundamentals_exercises.ipynb | Completed on 18-Jan-2021 |  |
-| 01 | Neural Network Regression with TensorFlow | Completed on 03-Sep-2021 |  |  |  |  |  |
+| 01 | Neural Network Regression with TensorFlow | Completed on 03-Sep-2021 | Completed on 19-Jan-2021 | Completed on 19-Jan-2021 |  |  |  |
 | 02 | Neural Network Classification with TensorFlow | Completed on 10-Sep-2021 |  |  |  |  |  |
 | 03 | Computer Vision and Convolutional Neural Networks with TensorFlow | Completed on 28-Nov-2021 |  |  |  |  |  |
 | 04 | Transfer Learning with TensorFlow Part 1: Feature Extraction | Completed on 29-Nov-2021 |  |  |  |  |  |
