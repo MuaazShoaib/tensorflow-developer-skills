@@ -83,3 +83,7 @@ def view_random_images(target_dir, target_class):
   img = mpimg.imread(target_folder + "/" + random_images[15])
   ax15.imshow(img)
   ax15.axis("off")
+  
+  print(f"Image of {target_class} has a shape of {img.shape}")
+
+  return img
