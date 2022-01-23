@@ -9,6 +9,7 @@
 * Deep Learning Specialization: https://www.coursera.org/specializations/deep-learning
 * TensorFlow: Data and Deployment Specialization: https://www.coursera.org/specializations/tensorflow-data-and-deployment
 * TensorFlow: Advanced Techniques Specialization: https://www.coursera.org/specializations/tensorflow-advanced-techniques
+* Learn from ML experts at Google: https://ai.google/education
 
 # English Course
 * English for Career Development: https://learndigital.withgoogle.com/digitalgarage/course/english-for-career-development
